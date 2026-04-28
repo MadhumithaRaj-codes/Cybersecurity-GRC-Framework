@@ -1,0 +1,4 @@
+Asset,Threat,Vulnerability,Likelihood,Impact,Risk Level,Mitigation
+Customer Database,Data Breach,Weak Encryption,High,High,Critical,Implement AES-256 encryption
+Web Server,DDoS Attack,No Rate Limiting,Medium,High,High,Deploy WAF
+Employee Accounts,Phishing,Low Awareness,High,Medium,High,Security training
