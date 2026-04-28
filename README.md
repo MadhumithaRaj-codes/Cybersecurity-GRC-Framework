@@ -25,3 +25,21 @@ To design and implement a governance, risk, and compliance (GRC) framework that:
 - Security Audit Checklist
 
 ## 📁 Project Structure
+Cybersecurity-GRC-Framework/
+│── policies/
+│── risk_assessment/
+│── incident_response/
+│── compliance/
+│── audit/
+│── assets/
+│── README.md
+
+
+## 🚀 Key Outcomes
+- Developed enterprise-grade security policies
+- Created a risk register with mitigation strategies
+- Designed incident response playbooks
+- Conducted compliance gap analysis
+
+## 👤 Author
+Madhumitha Raj
