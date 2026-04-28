@@ -44,13 +44,8 @@ Cybersecurity-GRC-Framework/
   ## 📊 Visual Assets
 
 ### Risk Matrix
-![Risk Matrix](assets/risk_matrix.png)
-
 ### Architecture Diagram
-![Architecture](assets/architecture_diagram.png)
-
 ### Governance Dashboard
-![Dashboard](assets/dashboard.png)
 
 ## 👤 Author
 Madhumitha Raj
