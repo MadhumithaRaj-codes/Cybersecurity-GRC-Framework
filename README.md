@@ -25,14 +25,24 @@ To design and implement a governance, risk, and compliance (GRC) framework that:
 - Security Audit Checklist
 
 ## 📁 Project Structure
+
+```text
 Cybersecurity-GRC-Framework/
+│── assets/
+│   ├── risk_matrix.png
+│   ├── architecture_diagram.png
+│   └── dashboard.png
+│
 │── policies/
 │── risk_assessment/
 │── incident_response/
 │── compliance/
 │── audit/
-│── assets/
+│
 │── README.md
+│── LICENSE
+│── .gitignore
+```
 
 
 ## 🚀 Key Outcomes
@@ -44,8 +54,17 @@ Cybersecurity-GRC-Framework/
   ## 📊 Visual Assets
 
 ### Risk Matrix
+![Risk Matrix](assets/risk_matrix.png)
+
+---
+
 ### Architecture Diagram
+![Architecture Diagram](assets/architecture_diagram.png)
+
+---
+
 ### Governance Dashboard
+![Dashboard](assets/dashboard.png)
 
 ## 👤 Author
 Madhumitha Raj
