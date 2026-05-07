@@ -26,7 +26,6 @@ To design and implement a governance, risk, and compliance (GRC) framework that:
 
 ## 📁 Project Structure
 
-```text
 Cybersecurity-GRC-Framework/
 │── assets/
 │   ├── risk_matrix.png
@@ -42,8 +41,6 @@ Cybersecurity-GRC-Framework/
 │── README.md
 │── LICENSE
 │── .gitignore
-```
-
 
 ## 🚀 Key Outcomes
 - Developed enterprise-grade security policies
